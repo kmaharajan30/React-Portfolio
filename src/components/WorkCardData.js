@@ -25,9 +25,9 @@ const projData=[
     {
         img:pro3,
         title:"Sample E-Commerce Website",
-        text:"This Project was done using Angular. Some of the Add to Cart functions were binded to this project. ",
+        text:"This Project was done using React. Some of the Add to Cart functions were binded to this project. ",
         view:pro3,
-        source:'https://github.com/kmaharajan30/Sample-E-Commerce-Website/tree/master/e-commerce'
+        source:'https://github.com/kmaharajan30/cart'
         
     }
 ];
