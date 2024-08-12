@@ -14,9 +14,6 @@ export default function AboutContent() {
         </div>
         <div className='right'>
             <div className='img-container'>
-            <div className='img-up'>
-                <img src='https://wallpaperaccess.com/full/3910941.jpg' className='img'/>
-            </div>
             <div className='img-down'>
                 <img src='https://wallpaperaccess.com/full/3909258.jpg' className='img'/>
             </div>
